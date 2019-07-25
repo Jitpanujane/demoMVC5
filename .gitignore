@@ -74,6 +74,3 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
-/Zenic.ClassLibrary.Manage/Implement/EFClinicCustomerBill.cs
-/Zenic.ClassLibrary.Manage/Interface/IClinicCustomerBill.cs
-/Zenic.ClassLibrary.Manage/Model/m_clinic_customer_bill.cs
